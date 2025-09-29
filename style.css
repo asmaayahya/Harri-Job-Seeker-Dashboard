@@ -379,19 +379,19 @@ display: flex;
 
 .app-details h3 {
   margin: 0;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 600;
   color: #1a1a1a;
 }
 
 .app-meta {
   line-height: 10px;
-  font-size: 10px;
+  font-size: 11px;
   color: #002237;
 }
 .app-meta1 {
  line-height: 10px;
-  font-size: 10px;
+  font-size: 11px;
   color: #666;
 }
 
@@ -402,7 +402,7 @@ display: flex;
 }
 
 .app-date {
-  font-size: 10px;
+  font-size: 11px;
   color: #999;
 }
 
@@ -476,11 +476,6 @@ display: flex;
   display: flex;
   align-items: center;
   gap: 16px;
-}
-
-.interview-time {
-  font-size: 12px;
-  font-weight: 600;
 }
 
 .list-item-con {
@@ -816,9 +811,6 @@ display: flex;
     padding: 16px;
   }
   
-  .interview-time {
-    flex-wrap: wrap;
-  }
 }
 
 @media (max-width: 768px) {
