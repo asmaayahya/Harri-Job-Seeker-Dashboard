@@ -300,6 +300,8 @@ body {
   border: 2px solid #0088DD;
   border-radius: 6px;
   padding: 8px 16px;
+  font-size: 12px;
+  font-weight: 600;
 
 }
 
